@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khushi Duggaar</h1>
 <h3 align="center">An aspiring Software Developer from India</h3>
-<img align = "right" alt = "coding" width = "400" src= "https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+<img align = "right" alt = "coding" width = "200" src= "https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiduggar&label=Profile%20views&color=0e75b6&style=flat" alt="khushiduggar" /> </p>
 
-- 🌱 I’m currently learning **Turning coffee into code while exploring the realms of AI, React, and cybersecurity. Brew, code, repeat.**
+- 🌱 I’m currently  **exploring the realms of AI, React, and cybersecurity. Brew, code, repeat.**
 
 - 👯 I’m looking to collaborate on **Optimizing machine learning models, building awesome web apps, and exploring new tech stacks. Let’s make cool stuff happen! 🚀**
 
