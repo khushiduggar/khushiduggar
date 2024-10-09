@@ -1,3 +1,4 @@
+![logo](https://github.com/khushiduggar/khushiduggar/blob/main/christian-boragine-AHuzfLnlnos-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Khushi Duggaar</h1>
 <h3 align="center">An aspiring Software Developer from India</h3>
 <img align = "right" alt = "coding" width = "300" src= "https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
