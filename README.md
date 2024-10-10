@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiduggar&label=Profile%20views&color=0e75b6&style=flat" alt="khushiduggar" /> </p>
 
-- 🌱 I’m currently  **exploring the realms of AI, React, and cybersecurity. Brew, code, repeat.**
+- 🌱 Currently  **exploring the realms of AI, React, and cybersecurity. Brew, code, repeat.**
 
-- 👯 I’m looking to collaborate on **Optimizing machine learning models, building awesome web apps, and exploring new tech stacks. Let’s make cool stuff happen! 🚀**
+- 👯 Looking to collaborate on **Optimizing machine learning models, building awesome web apps, and exploring new tech stacks. Let’s make cool stuff happen! 🚀**
 
 - 👨‍💻 Most of my projects are available at [https://khushiduggar.github.io/Portfolio/](https://khushiduggar.github.io/Portfolio/)
-
-- 💬 Ask me about **Data Structures and Algorithms, HTML, CSS, AIML, Cybersecurity, Data Science**
 
 - 📫 How to reach me **khushiduggar4@gmail.com**
 
